@@ -468,7 +468,7 @@ async def inv(ctx): # b'\xfc'
     print('inv link generated')
     embed = discord.Embed(
         title="Wanna use this selfbot?",
-        description=" [__Download!__]()",
+        description=" [__Download!__](https://github.com/itzCujo/Felon)",
         color=color,
         timestamp=datetime.now(),
     )
